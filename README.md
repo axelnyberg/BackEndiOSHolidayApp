@@ -3,7 +3,7 @@
 
 This application was uploaded to AWS for a time so that the iOSHolidayApp could work properly.
 
-features:
+Features:
 * PUT
 * PATCH
 * DELETE
