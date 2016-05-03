@@ -1,13 +1,14 @@
-# BackEndiOSHolidayApp
- REST API created in a course and later used for the iOSHolidayApp. 
+# REST API
+A REST API created in a course at Jönköping University and later on used for the iOSHolidayApp. 
+This application was uploaded to AWS for a time.
 
-This application was uploaded to AWS for a time so that the iOSHolidayApp could work properly.
+**Language:** C#
 
-Features:
-* PUT
-* PATCH
-* DELETE
-* GET
-* POST
+**features:**<br>
+* PUT<br>
+* PATCH<br>
+* DELETE<br>
+* GET<br>
+* POST<br>
 
 
